@@ -1,4 +1,4 @@
-# forms
+# Task Tracker
 
 ## Project setup
 ```
@@ -19,6 +19,19 @@ npm run build
 ```
 npm run lint
 ```
+
+
+### Install json-server
+```
+npm install -g json-server
+```
+
+
+### To run the backend json-server
+```
+npm run backend
+```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
